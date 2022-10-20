@@ -1,0 +1,36 @@
+.project_comp{
+    width:90%;
+    padding:1%;
+    gap:5%;
+    display: flex;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: white 0px 0px 2px;
+}
+.proj_img{
+    width:40%;
+    height:auto;
+    border-radius: 10px;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+}
+.proj_comp_buttons{
+ display: flex;
+ width:100%;
+}
+.view_button{
+    background: none;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    cursor:pointer;
+    color:white;
+    padding:1.5%;
+    border:1px #B22B27 solid;
+    border-radius:4px;
+    font-weight: 600;
+    transition: 0.7s box-shadow;
+    margin:2%;
+}

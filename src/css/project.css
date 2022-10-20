@@ -1,0 +1,20 @@
+.project_page{
+    position:relative;
+    left:0;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    gap:8%;
+    width:100%;
+    height:420px;
+    color:white;
+    text-align: left;
+    font-family: 'Koulen', cursive;
+    letter-spacing: 2px;
+    
+}
+.heading_about{
+    color:#B22B27;
+    border-bottom: 100px;
+    font-family: 'Koulen', cursive;
+}
