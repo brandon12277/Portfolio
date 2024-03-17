@@ -1,0 +1,13 @@
+.about-header{
+    z-index: 100;
+    font-size: 150%;
+    display: flex;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    
+    align-items: center;
+    
+    gap:5%;
+    color:#d2bdeb;
+    text-shadow: #000000 4px 4px 2px;
+}

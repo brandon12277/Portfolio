@@ -1,0 +1,89 @@
+.project{
+    box-shadow: #cb9bff 0px 0px 2px;
+    border-radius: 0.45em;
+   padding: 0% 0% 10% 0%;
+   background-color: #141414;
+  
+}
+
+video {
+    border-top-left-radius: 0.45em;
+    border-top-right-radius: 0.45em;
+    outline: none; /* Remove outline on focus */
+    width:100%;
+    height:auto;
+    margin:0;
+    transition: 0.5s;
+
+  }
+ 
+
+  .project-name{
+       color:white;
+       font-size: 110%;
+       margin:4%;
+  }
+
+  #project-descp{
+    background: none;
+    box-shadow: none;
+    margin:4%;
+    font-weight: 200;
+    color:rgb(168, 168, 168);
+    font-size: small;
+}
+
+#project-descp:hover{
+    box-shadow: none;
+
+}
+
+.tags{
+    width:90%;
+   
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5%;
+    align-items: center;
+    padding:2%;
+   
+}
+.tag-name{
+    background-color: #282828;
+    color: white;
+    margin:2%;
+    border-radius: 0.3em;
+    font-size: 80%;
+    text-align: center;
+  
+    
+}
+
+.project-buttons{
+    width:100%;
+    padding:5%;
+}
+
+.view{
+    margin:0% 0% 4% 0%;
+    background-color: #773cb7;
+    text-align: center;
+   text-decoration: none;
+   color:white;
+   padding:1% 5% 1% 5%;
+   border-radius: 0.40em;
+   font-size: 90%;
+   cursor:pointer;
+
+}
+
+@media (max-width: 660px) {
+
+   .grid-res{
+    display:grid;
+    grid-template-columns: auto;
+   }
+     
+  
+       
+}

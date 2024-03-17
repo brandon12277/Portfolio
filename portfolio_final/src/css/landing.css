@@ -1,0 +1,56 @@
+.button-6 {
+    align-items: center;
+    background: linear-gradient(to right,#8b298d,#dd19ff);
+    
+    border-radius: 0.45rem;
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: 'Poppins', sans-serif;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+   padding:1%;
+    position: relative;
+    text-decoration: none;
+    transition: 1s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+    z-index:0;
+  }
+  
+  .button-6:hover {
+    border-color: #ca5cdd;
+    box-shadow: #d902ff 0 0px 3px;
+    background: linear-gradient(to right,#dd19ff,#8b298d);
+    color: white;
+  }
+  
+  .button-6:hover {
+    transform: translateY(-1px);
+  }
+  
+  .button-6:active {
+   
+   
+    color: white;
+    transform: translateY(0);
+    box-shadow: #af6aff 0 3px 12px;
+  }
+
+  .me{
+        width:120px;
+        height:120px;
+        border-radius: 50%;
+        border:5px solid #de24ff;
+        background-color: #ef97ff;
+        background-image: url("../me3.png");
+        background-repeat: no-repeat;
+        background-size:cover;
+   
+}

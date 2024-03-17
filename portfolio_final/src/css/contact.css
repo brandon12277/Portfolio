@@ -1,0 +1,23 @@
+
+
+
+.con-name,.con-descp{
+    border-radius: 0.4em;
+    padding:1%;
+    border: 1px solid #cb9bff;
+    outline:none;
+    background-color:#1e1e1e;
+    resize: none;
+    color:white;
+
+    font-family: 'Poppins', sans-serif;
+}
+.submit{
+    font-family: 'Poppins', sans-serif;
+    cursor:pointer;
+    background-color: #743caf;
+    outline:none;
+    border:none;
+    border-radius: 0.4em;
+    color:white;
+}
