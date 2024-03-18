@@ -3,15 +3,27 @@ import React, { useState,useEffect } from "react";
 import "../css/landing.css"
 import { Fade } from "react-awesome-reveal";
 import scroll from  "../scroll brand.gif"
+import saveAs from 'file-saver';
+
+import resume from "../Resume.pdf"
 
 const LandingPage = () =>{
 
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
+
+  const handleDownload = () => {
+    const pdfBlob = new Blob([], { type: 'application/pdf' }); 
+    saveAs(resume, "resume.pdf"); // 
+  };
+
+
   useEffect(() => {
     const handleResize = () => {
       setWindowWidth(window.innerWidth);
     };
+
+   
 
     window.addEventListener('resize', handleResize);
 
@@ -112,10 +124,10 @@ const LandingPage = () =>{
            <div className="flex mb-20  gap-10 justify-center items-center">
            
            
-               <button className="button-6 roboto ">Download Resume</button>
+               <button onClick={handleDownload} className="button-6 roboto ">Download Resume</button>
               
                
-               <button data-href="#projects" className="button-6 roboto">View My Work </button>
+               <button  data-href="#projects" className="button-6 roboto">View My Work </button>
          
             
 
