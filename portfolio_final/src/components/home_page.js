@@ -120,7 +120,7 @@ const LandingPage = () =>{
            
             </div>
 
-            <Fade cascade damping={5} direction = {"right"}>
+          
            <div className="flex mb-20  gap-10 justify-center items-center">
            
            
@@ -132,7 +132,7 @@ const LandingPage = () =>{
             
 
             </div>
-            </Fade>
+           
             
 
        </div>
