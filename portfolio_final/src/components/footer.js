@@ -36,7 +36,7 @@ const Footer = () =>{
 
             <a
            class="btn round-bor flex items-center justify-center border-2 btn-outline-light btn-floating m-1"
-           href="#!"
+           href="https://www.linkedin.com/in/brandon-luke-williams-899980241/"
            role="button"
            ><i class="fab fa-linkedin-in"></i>
            </a>
@@ -44,7 +44,7 @@ const Footer = () =>{
        
         <a
            class="btn round-bor flex items-center justify-center  border-2 btn-outline-light btn-floating m-1"
-           href="#!"
+           href="https://github.com/brandon12277"
            role="button"
            ><i class="fab fa-github"></i>
         </a>

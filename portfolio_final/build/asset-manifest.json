@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2e2ad7fd.css",
-    "main.js": "/static/js/main.c08d92c3.js",
+    "main.js": "/static/js/main.dbdaf5ef.js",
     "static/media/volume.mp4": "/static/media/volume.2b2ffde02ced619be955.mp4",
     "static/media/speak.mp4": "/static/media/speak.1040cd1f93abc9421837.mp4",
     "static/media/letter.mp4": "/static/media/letter.c3dd35e3982b882f160a.mp4",
@@ -21,10 +21,10 @@
     "static/media/scroll brand.gif": "/static/media/scroll brand.1ffaea8168b28d478971.gif",
     "index.html": "/index.html",
     "main.2e2ad7fd.css.map": "/static/css/main.2e2ad7fd.css.map",
-    "main.c08d92c3.js.map": "/static/js/main.c08d92c3.js.map"
+    "main.dbdaf5ef.js.map": "/static/js/main.dbdaf5ef.js.map"
   },
   "entrypoints": [
     "static/css/main.2e2ad7fd.css",
-    "static/js/main.c08d92c3.js"
+    "static/js/main.dbdaf5ef.js"
   ]
 }
