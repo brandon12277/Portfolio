@@ -32,12 +32,7 @@ const Footer = () =>{
                     
           
             <div className=" p-2 gap-5 flex items-center justify-center  ">
-            <a
-           class="btn round-bor flex items-center justify-center border-2 btn-outline-light btn-floating m-1"
-           href="#!"
-           role="button"
-           ><i class="fab fa-instagram"></i
-          ></a>
+          
 
             <a
            class="btn round-bor flex items-center justify-center border-2 btn-outline-light btn-floating m-1"

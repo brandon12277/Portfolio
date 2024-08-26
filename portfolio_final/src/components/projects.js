@@ -5,7 +5,7 @@ import speech from "../speech.mp4"
 import letter from "../letter.mp4"
 import chatter from "../chatter.mp4"
 import volume from "../volume.mp4"
-import code from "../code.mp4"
+import bit from "../bit.mp4"
 import { Fade } from "react-awesome-reveal";
 import Project_Elem from "./project_elem";
 
@@ -20,7 +20,7 @@ const Projects = () =>{
          video:speak,
         name:"SpeakSphere",
         description:"An Online debating platform with content moderation using natural language processing and convoluted neural networks",
-        tags:["React.js","NodeJs","MongoDB","Tensorflow","sci-kit learn"],
+        tags:["React.js","NodeJs","MongoDB","Express","Tensorflow","sci-kit learn"],
         videoLink:"https://speaksphere.onrender.com/"
         },
 
@@ -58,11 +58,11 @@ const Projects = () =>{
         },
 
         {
-            video:code,
-            name:" Collaborative Code Editor",
-            description:"An open source code editor",
-            tags:["MySQL","Nodejs","Bootstrap"],
-            videoLink:"https://code-editor-sp1h.onrender.com/"
+            video:bit,
+            name:"BitMatch",
+            description:"A matchmaking application for coders",
+            tags:["NextJs","MongoDB","TailWind","Socket.io","ExpressJs"],
+            videoLink:"https://bitmatch.vercel.app/"
         }
 
 

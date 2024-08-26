@@ -5,7 +5,7 @@ import { Fade } from "react-awesome-reveal";
 import scroll from  "../scroll brand.gif"
 import saveAs from 'file-saver';
 
-import resume from "../Resume.pdf"
+import resume from "../resume_new.pdf"
 
 const LandingPage = () =>{
 
