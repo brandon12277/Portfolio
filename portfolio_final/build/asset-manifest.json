@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.2e2ad7fd.css",
-    "main.js": "/static/js/main.cd7b73e5.js",
+    "main.js": "/static/js/main.c08d92c3.js",
     "static/media/volume.mp4": "/static/media/volume.2b2ffde02ced619be955.mp4",
     "static/media/speak.mp4": "/static/media/speak.1040cd1f93abc9421837.mp4",
     "static/media/letter.mp4": "/static/media/letter.c3dd35e3982b882f160a.mp4",
-    "static/media/code.mp4": "/static/media/code.f92dd87a62c62656818e.mp4",
+    "static/media/bit.mp4": "/static/media/bit.1902a596a4bc63f3819d.mp4",
     "static/media/speech.mp4": "/static/media/speech.6ff236ad8e802b2e4d19.mp4",
     "static/media/chatter.mp4": "/static/media/chatter.778a19f405757a0b7446.mp4",
-    "static/media/Resume.pdf": "/static/media/Resume.42503fb3876e92a4ef83.pdf",
     "static/media/flask2.png": "/static/media/flask2.83232c1e795d6398f63a.png",
+    "static/media/resume_new.pdf": "/static/media/resume_new.5d0d9271e34e90398333.pdf",
     "static/media/mongo (2).png": "/static/media/mongo (2).affaa5b633c83204fcb6.png",
     "static/media/python3.png": "/static/media/python3.828f9cd236672a554016.png",
     "static/media/cv2.png": "/static/media/cv2.84c9fae104b78649a9da.png",
@@ -21,10 +21,10 @@
     "static/media/scroll brand.gif": "/static/media/scroll brand.1ffaea8168b28d478971.gif",
     "index.html": "/index.html",
     "main.2e2ad7fd.css.map": "/static/css/main.2e2ad7fd.css.map",
-    "main.cd7b73e5.js.map": "/static/js/main.cd7b73e5.js.map"
+    "main.c08d92c3.js.map": "/static/js/main.c08d92c3.js.map"
   },
   "entrypoints": [
     "static/css/main.2e2ad7fd.css",
-    "static/js/main.cd7b73e5.js"
+    "static/js/main.c08d92c3.js"
   ]
 }
